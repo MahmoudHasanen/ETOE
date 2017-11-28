@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="119" started-at="2017-11-28T13:43:12Z" finished-at="2017-11-28T13:43:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="119" started-at="2017-11-28T13:43:12Z" finished-at="2017-11-28T13:43:12Z">
+      <class name="MavenGitJenkinsOne.TestmeAna2">
+        <test-method status="PASS" signature="testMe()[pri:0, instance:MavenGitJenkinsOne.TestmeAna2@1d8d30f7]" name="testMe" duration-ms="26" started-at="2017-11-28T14:43:12Z" finished-at="2017-11-28T14:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMe -->
+      </class> <!-- MavenGitJenkinsOne.TestmeAna2 -->
+      <class name="MavenGitJenkinsOne.TestmeAna">
+        <test-method status="PASS" signature="testMe()[pri:0, instance:MavenGitJenkinsOne.TestmeAna@587d1d39]" name="testMe" duration-ms="5" started-at="2017-11-28T14:43:12Z" finished-at="2017-11-28T14:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMe -->
+      </class> <!-- MavenGitJenkinsOne.TestmeAna -->
+      <class name="MavenGitJenkinsOne.TestmeAna3">
+        <test-method status="PASS" signature="testMe()[pri:0, instance:MavenGitJenkinsOne.TestmeAna3@2c039ac6]" name="testMe" duration-ms="4" started-at="2017-11-28T14:43:12Z" finished-at="2017-11-28T14:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMe -->
+      </class> <!-- MavenGitJenkinsOne.TestmeAna3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
